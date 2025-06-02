@@ -6,9 +6,19 @@
 
 ## 🎯 Descripción del Proyecto
 
-Este juego de aventura en consola simula el recorrido de un personaje que debe atravesar dos mapas llenos de obstáculos dinámicos (bloques móviles horizontales y verticales). El jugador se representa con un bloque gráfico (`█`) y debe llegar al área marcada como objetivo (`8`) en ambos mapas.
+Juego de aventura interactivo desarrollado en C++ con Visual Studio. El proyecto se basa en una arquitectura modular que divide las funcionalidades en bibliotecas como `juego.h`, `jugador.h`, `mapa.h`, `pantallas.h` y `bloques.h`.
 
-El entorno se construye con gráficos ASCII y se utilizan colores y movimiento para dar una experiencia visual interactiva.
+Incluye animaciones en consola, uso de colores, movimiento de objetos y estructuras lógicas de control que permiten recorrer mapas con obstáculos. El repositorio contiene:
+
+* Implementación completa en C++/CLI (modo consola)
+* Mapas precargados en arreglos 2D
+* Movimiento del jugador con teclas (`WASD`)
+* Bloques automáticos horizontales y verticales
+* Documentación detallada en el `README.md`
+* Explicación de dependencias entre bibliotecas
+
+Ideal como base para juegos por consola, ejercicios de programación modular o proyectos educativos.
+
 
 ---
 
