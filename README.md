@@ -4,7 +4,7 @@
 ![Estado](https://img.shields.io/badge/Estado-Activo-brightgreen)
 ![Autor](https://img.shields.io/badge/Autor-HAMP-orange)
 
-## 🎯 Descripción del Proyecto
+## 🌐 Descripción del Proyecto
 
 Juego de aventura interactivo desarrollado en C++ con Visual Studio. El proyecto se basa en una arquitectura modular que divide las funcionalidades en bibliotecas como `juego.h`, `jugador.h`, `mapa.h`, `pantallas.h` y `bloques.h`.
 
@@ -12,13 +12,43 @@ Incluye animaciones en consola, uso de colores, movimiento de objetos y estructu
 
 * Implementación completa en C++/CLI (modo consola)
 * Mapas precargados en arreglos 2D
-* Movimiento del jugador con teclas (`WASD`)
+* Movimiento del jugador con teclas (WASD)
 * Bloques automáticos horizontales y verticales
 * Documentación detallada en el `README.md`
 * Explicación de dependencias entre bibliotecas
 
 Ideal como base para juegos por consola, ejercicios de programación modular o proyectos educativos.
 
+---
+
+## 🌟 Misión del Juego
+
+Guiar al personaje principal a través de mapas llenos de peligros, superando bloques móviles y evitando colisiones hasta llegar al portal final marcado con el número `8`.
+
+El jugador deberá demostrar agilidad, precisión y pensamiento rápido para avanzar en un entorno hostil y lograr completar ambos niveles con éxito.
+
+---
+
+## 📊 Misión del Proyecto
+
+Brindar una experiencia de aprendizaje interactiva que permita a estudiantes y entusiastas de la programación entender conceptos fundamentales de C++ mediante la implementación de un juego por consola.
+
+El proyecto busca fomentar el pensamiento lógico, la programación estructurada y el diseño modular a través de un enfoque lúdico, accesible y técnicamente enriquecedor.
+
+---
+
+## ⚔️ Funcionalidades Principales
+
+Al jugar, el usuario puede:
+
+* Moverse libremente en el mapa usando teclas `W`, `A`, `S`, `D`
+* Esquivar bloques en movimiento horizontal y vertical
+* Visualizar animaciones coloridas y efectos en consola
+* Superar un primer mapa y avanzar a un segundo con nuevos retos
+* Ganar el juego al alcanzar la meta (portal de salida) marcada con el número `8`
+* Disfrutar una experiencia retro tipo ASCII con mensajes de carátula, carga y final
+
+Estas funcionalidades buscan ofrecer un entorno lúdico y didáctico para comprender mejor la programación estructurada en C++.
 
 ---
 
