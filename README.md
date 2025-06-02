@@ -102,8 +102,6 @@ A continuación se describen las dependencias lógicas entre módulos del proyec
 
 ---
 
----
-
 ## 📜 Flujo de Ejecución
 
 1. `main()`:
