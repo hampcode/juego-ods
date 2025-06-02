@@ -1,4 +1,4 @@
-# 🎩 Juego de Aventura en Consola - Proyecto HAMPCODE
+# 🎩 Juego de Aventura en Consola
 
 ![C++](https://img.shields.io/badge/C%2B%2B-Visual%20C%2B%2B-blue)
 ![Estado](https://img.shields.io/badge/Estado-Activo-brightgreen)
